@@ -1,0 +1,30 @@
+configuration {
+    modi: "drun";
+    show-icons: true;
+    font: "monospace 12";
+    display-drun: "apps";
+    drun-display-format: "{name}";
+    disable-history: false;
+    sidebar-mode: false;
+}
+
+window {
+    transparency: "real";
+    background-color: #1e1e2e;
+    border: 1px;
+    border-color: #313244;
+    width: 40%;
+}
+
+mainbox {
+    background-color: transparent;
+}
+
+element {
+    background-color: transparent;
+    text-color: #cdd6f4;
+}
+
+element selected {
+    background-color: #313244;
+}
