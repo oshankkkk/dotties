@@ -1,0 +1,16 @@
+
+.arkdown-source-view,
+.arkdown-preview-view {
+  padding-left: 76px !important;
+  padding-right: 76px !important;
+}
+
+.markdown-source-view .cm-content,
+.markdown-preview-view .markdown-preview-sizer {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  max-width: 100% !important;
+}
+input {
+  caret-color: white
+}

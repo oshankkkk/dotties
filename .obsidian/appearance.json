@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Rose Pine",
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "padding"
+  ],
+  "theme": "obsidian",
+  "monospaceFontFamily": "Inter"
+}
