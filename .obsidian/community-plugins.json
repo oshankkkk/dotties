@@ -3,10 +3,13 @@
   "vimium",
   "obsidian-vimrc-support",
   "obsidian-style-settings",
-  "obsidian-languagetool-plugin",
   "obsidian-git",
   "obsidian-kanban",
   "copilot",
-  "various-complements",
-  "obsidian-dictionary-plugin"
+  "pdf-plus",
+  "image-converter",
+  "convert-url-to-iframe",
+  "templater-obsidian",
+  "md-to-resume",
+  "typst-mate"
 ]

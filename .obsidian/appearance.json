@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Rose Pine",
+  "cssTheme": "Catppuccin",
   "textFontFamily": "Inter",
   "interfaceFontFamily": "Inter",
   "baseFontSize": 19,
@@ -7,5 +7,7 @@
     "padding"
   ],
   "theme": "obsidian",
-  "monospaceFontFamily": "Inter"
+  "monospaceFontFamily": "Inter",
+  "accentColor": "",
+  "showViewHeader": true
 }

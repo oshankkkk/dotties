@@ -4,5 +4,10 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "tabSize": 4,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "spellcheck": false,
+  "showIndentGuide": false,
+  "attachmentFolderPath": "./assets",
+  "settingsPopoutWindow": false
 }
